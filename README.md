@@ -180,11 +180,6 @@ Response Patterns: Error codes, authentication surfaces
 
 
 👨‍💻 Author
-<div align="center">
 Hammad Naeem
-
-GitHub
-
-</div>
 ⭐ Star History
 If you find this tool useful, please consider giving it a star! ⭐
