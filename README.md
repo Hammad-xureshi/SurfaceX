@@ -12,8 +12,6 @@ Bash-Driven Recon & Bug Evidence Detection Orchestrator
 [![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/hammadnaeem/surface-x/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/hammadnaeem/surface-x)](https://github.com/hammadnaeem/surface-x/issues)
-[![GitHub stars](https://img.shields.io/github/stars/hammadnaeem/surface-x)](https://github.com/hammadnaeem/surface-x/stargazers)
 
 **A professional-grade, terminal-based reconnaissance and vulnerability evidence framework built entirely in Bash.**
 
